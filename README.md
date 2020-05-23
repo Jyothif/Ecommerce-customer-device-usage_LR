@@ -6,3 +6,7 @@ There was a time mobile devices were primarily used for making telephone calls. 
 
 Ecommerce is seeing huge growth due to the ease and convenience that mobile devices bring to the online shopping experience. In fact, eMarketer forecasts that the global eCommerce revenue will rise 19% in 2020 to $4.206 trillion (up from $3.535 trillion in 2019). By 2021, they expect global eCommerce revenue will approach $5 trillion. 
 
+#### Pair Distribution of the variables
+
+
+
