@@ -13,6 +13,8 @@ Ecommerce is seeing huge growth due to the ease and convenience that mobile devi
 
 Extraxted from kaggle Datasets
 This Dataset consists of no null values and missing values.
+
+
  1   Email                  
  2   Address                
  3   Avatar                 
