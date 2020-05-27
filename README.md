@@ -37,7 +37,7 @@ This Dataset consists of following variables.
 I looked at the distribution of data and Value Counts for the various categorical variables.Some of the highlights from the Results.
 
 
-![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/histogram_device_usage.png)
+![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/jointplot.png)![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/histogram_device_usage.png)![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/heatmap%20LR.png)
 
 
 
