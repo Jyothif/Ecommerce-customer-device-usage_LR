@@ -11,7 +11,7 @@
 
 * **Packages:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn 
 
-* **Jupyter notebook Version:**
+* **Jupyter notebook Version:** 6.0.3
 
 
 
