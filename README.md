@@ -7,18 +7,18 @@
 
 # Code and Resource 
 
-**Python version:** 3.7.6
+* **Python version:** 3.7.6
 
-**Packages:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn 
+* **Packages:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn 
 
-**Jupyter notebook Version:**
+* **Jupyter notebook Version:**
 
 
 
 # Data collection : 
 
-Extracted from kaggle Datasets
-This Dataset consists of no null values and missing values
+* Extracted from kaggle Datasets
+* This Dataset consists of no null values and missing values
 
 This Dataset consists of following variables.
 
@@ -34,12 +34,35 @@ This Dataset consists of following variables.
  
 # EDA
 
-I looked at the distribution of data and Value Counts for the various categorical variables.Some of the highlights from the Results.
+* I looked at the distribution of data and Value Counts for the various categorical variables.Some of the highlights from the Results.
 
 
 ![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/jointplot.png)![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/histogram_device_usage.png)![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/heatmap%20LR.png)
 
+# Model Building
 
+* I split the data into train and test sets,  I have used linear regression model for the best fit line 
+* I have used  LR Model evaluated using 
+  + Mean Absolute Error(MAE),
+  + Mean Squared error(MSE),
+  + Root Mean Squared Error(RMSE)
+  
+  
+# Model Performance
+
+* I have used LR Model approaches on the test and validation sets.
+
+  + Mean Absolute Error(MAE) = 7.22
+  + Mean Squared error(MSE) = 79.81
+  + Root Mean Squared Error(RMSE) = 8.93
+  
+* I evaluated variance score about 0.98
+I also found residual coefficients of the model
+
+![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/residuals.PNG)
+
+
+ 
 
 
 
