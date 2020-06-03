@@ -62,7 +62,8 @@ I also found residual coefficients of the model
 ![alt text](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR/blob/master/images/residuals.PNG)
 
 
- 
+# Model Deployment
+
 
 
 
